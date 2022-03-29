@@ -3,7 +3,6 @@ import Link from "next/link";
 
 import SEO from "../components/SEO/index.js";
 import MainMenu from "../components/Menu/MainMenu.js";
-import MobileMenu from "../components/Menu/MobileMenu.js";
 import Footer from "../components/Footer/index.js";
 
 export default function Home() {
@@ -23,7 +22,6 @@ export default function Home() {
           <div className="absolute top-0 left-0 hidden xl:block h-full max-w-sm w-full" />
 
           <MainMenu />
-          <MobileMenu />
 
           <div className="relative container px-4 mx-auto">
             <div className="flex flex-wrap justify-between">
@@ -46,10 +44,10 @@ export default function Home() {
                     <span>Steven Rivera.</span>
                   </h1>
                   <p className="navigationleading-8 md:max-w-md xl:max-w-sm mb-6">
-                    Like the Nike slogan, I &apos;just do it!&apos; and accomplish
-                    everything I put my mind to. I&apos;m the Co-founder of Neftify,
-                    a Web3 company that focuses on building products for the
-                    metaverse and gaming ecosystem.
+                    Like the Nike slogan, I &apos;just do it!&apos; and
+                    accomplish everything I put my mind to. I&apos;m the
+                    Co-founder of Neftify, a Web3 company that focuses on
+                    building products for the metaverse and gaming ecosystem.
                   </p>
                   <div className="ml-auto">
                     <Link href="/my-story">

@@ -1,6 +1,5 @@
 import SEO from "../components/SEO/index.js";
 import MainMenu from "../components/Menu/MainMenu.js";
-import MobileMenu from "../components/Menu/MobileMenu.js";
 import Footer from "../components/Footer/index.js";
 
 export default function Home() {
@@ -19,7 +18,6 @@ export default function Home() {
           <div className="absolute top-0 left-0 hidden xl:block h-full max-w-sm w-full" />
 
           <MainMenu />
-          <MobileMenu />
         </section>
 
         <section className="pb-24">
@@ -47,12 +45,12 @@ export default function Home() {
           <div className="container px-4 mx-auto">
             <div className="max-w-xl mx-auto">
               <p className="leading-8 mb-8 pb-8 border-b">
-                Steven is considered one of Latin America&apos;s leading minds on
-                what&apos;s next in technology, Web3, and the Metaverse. Known as
-                &apos;Steven,&apos; he is described as one of the youngest tech people in
-                Puerto Rico. Early to coding in 2009, crypto in 2017, and NFTs
-                in 2020, Steven is looking to be at the forefront of technology
-                development.
+                Steven is considered one of Latin America&apos;s leading minds
+                on what&apos;s next in technology, Web3, and the Metaverse.
+                Known as &apos;Steven,&apos; he is described as one of the
+                youngest tech people in Puerto Rico. Early to coding in 2009,
+                crypto in 2017, and NFTs in 2020, Steven is looking to be at the
+                forefront of technology development.
               </p>
               <h2 className="text-4xl font-heading mb-6">
                 Steven Rivera&apos;s Story
@@ -62,8 +60,8 @@ export default function Home() {
                 Morovis for most of his early years. Went to public schools and
                 taught itself to code and learn English using the internet. He
                 started making money at an early age, selling whatever he could
-                find or building like &apos;bolines&apos; and &apos;gallitos&apos; to have cash for
-                candies.
+                find or building like &apos;bolines&apos; and
+                &apos;gallitos&apos; to have cash for candies.
               </p>
 
               <p className="leading-8 mb-6">

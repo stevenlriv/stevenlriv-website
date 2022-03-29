@@ -1,6 +1,5 @@
 import SEO from "../components/SEO/index.js";
 import MainMenu from "../components/Menu/MainMenu.js";
-import MobileMenu from "../components/Menu/MobileMenu.js";
 import ContentRow from "../components/Content/Row/index.js";
 import Footer from "../components/Footer/index.js";
 
@@ -20,7 +19,6 @@ export default function Home() {
           <div className="absolute top-0 left-0 hidden xl:block h-full max-w-sm w-full" />
 
           <MainMenu />
-          <MobileMenu />
         </section>
 
         <section className="py-24">
@@ -37,8 +35,19 @@ export default function Home() {
             </div>
 
             <ContentRow
-              two={{ title: "Medium", description: "Any type of post from personal views, to my publications to Neftify medium.", url: "https://medium.com/@stevenlriv", imageURL: "/images/blogs/medium-icon.png" }}
-              three={{ title: "The Weekly Rundown", description: "My weekly NFT market analisis at NFTPlazas", url: "https://nftplazas.com/author/steven/", imageURL: "/images/blogs/weekly-rundown.jpeg" }}
+              two={{
+                title: "Medium",
+                description:
+                  "Any type of post from personal views, to my publications to Neftify medium.",
+                url: "https://medium.com/@stevenlriv",
+                imageURL: "/images/blogs/medium-icon.png",
+              }}
+              three={{
+                title: "The Weekly Rundown",
+                description: "My weekly NFT market analisis at NFTPlazas",
+                url: "https://nftplazas.com/author/steven/",
+                imageURL: "/images/blogs/weekly-rundown.jpeg",
+              }}
             />
           </div>
         </section>
