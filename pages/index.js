@@ -46,8 +46,8 @@ export default function Home() {
                     <span>Steven Rivera.</span>
                   </h1>
                   <p className="navigationleading-8 md:max-w-md xl:max-w-sm mb-6">
-                    Like the Nike slogan, I "just do it!" and accomplish
-                    everything I put my mind to. I'm the Co-founder of Neftify,
+                    Like the Nike slogan, I &apos;just do it!&apos; and accomplish
+                    everything I put my mind to. I&apos;m the Co-founder of Neftify,
                     a Web3 company that focuses on building products for the
                     metaverse and gaming ecosystem.
                   </p>

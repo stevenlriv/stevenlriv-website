@@ -47,22 +47,22 @@ export default function Home() {
           <div className="container px-4 mx-auto">
             <div className="max-w-xl mx-auto">
               <p className="leading-8 mb-8 pb-8 border-b">
-                Steven is considered one of Latin America's leading minds on
-                what's next in technology, Web3, and the Metaverse. Known as
-                "Steven," he is described as one of the youngest tech people in
+                Steven is considered one of Latin America&apos;s leading minds on
+                what&apos;s next in technology, Web3, and the Metaverse. Known as
+                &apos;Steven,&apos; he is described as one of the youngest tech people in
                 Puerto Rico. Early to coding in 2009, crypto in 2017, and NFTs
                 in 2020, Steven is looking to be at the forefront of technology
                 development.
               </p>
               <h2 className="text-4xl font-heading mb-6">
-                Steven Rivera's Story
+                Steven Rivera&apos;s Story
               </h2>
               <p className="leading-8 mb-6">
                 Steven was born in 1996 to a low-income family and resided in
                 Morovis for most of his early years. Went to public schools and
                 taught itself to code and learn English using the internet. He
                 started making money at an early age, selling whatever he could
-                find or building like "bolines" and "gallitos" to have cash for
+                find or building like &apos;bolines&apos; and &apos;gallitos&apos; to have cash for
                 candies.
               </p>
 

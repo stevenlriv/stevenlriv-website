@@ -31,7 +31,7 @@ export default function Home() {
               </div>
               <div className="w-full lg:w-1/2 px-4">
                 <p className="max-w-lg leading-8">
-                  Every blog I'm sending some of my weekly articles.
+                  Every blog I&apos;m sending some of my weekly articles.
                 </p>
               </div>
             </div>
