@@ -35,8 +35,15 @@ export default function Home() {
             </div>
 
             <ContentRow
+              one={{
+                title: "para Hispanohablantes",
+                description:
+                  "Pensamientos sobre la Web3, programación y assets en el Metaverso. Spanish only.",
+                url: "https://parahispanohablantes.substack.com/",
+                imageURL: "/images/blogs/paraHispanohablantes.png",
+              }}
               two={{
-                title: "Medium",
+                title: "My Medium",
                 description:
                   "Any type of post from personal views, to my publications to Neftify medium.",
                 url: "https://medium.com/@stevenlriv",
