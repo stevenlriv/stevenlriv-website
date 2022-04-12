@@ -1,4 +1,5 @@
 import SEO from "../components/SEO/index.js";
+import TopBannerCurrentMessage from "../components/TopBanner/CurrentMessage.js";
 import MainMenu from "../components/Menu/MainMenu.js";
 import ContentRow from "../components/Content/Row/index.js";
 import Footer from "../components/Footer/index.js";
@@ -15,6 +16,9 @@ export default function Home() {
       />
 
       <div className="antialiased bg-body text-body font-body">
+
+        <TopBannerCurrentMessage />
+
         <section className="pb-24 relative">
           <div className="absolute top-0 left-0 hidden xl:block h-full max-w-sm w-full" />
 
