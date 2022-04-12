@@ -42,20 +42,20 @@ export default function Home() {
                 description:
                   "Social Impact in Puerto Rico through blockchain, open data, vr/ar",
                 url: "https://restart-week-hackathon.devpost.com/",
-                imageURL: "/images/hackathons/restart-week.jpeg",
+                imageURL: "/images/hackathons/restart-week-ts.png",
               }}
               two={{
                 title: "Solana Ignition",
                 description:
                   "Launching the next wave of crypto apps and infrastructure",
                 url: "https://solana.com/news/solana-ignition-hackathon-winners",
-                imageURL: "/images/hackathons/solana-ignition.jpeg",
+                imageURL: "/images/hackathons/solana-ignition-ts.png",
               }}
               three={{
                 title: "Metaverso Hackathon",
                 description: "Puerto Rico's first NFT Hackathon",
                 url: "https://metaverso-hackathon.devpost.com/?ref_feature=challenge&ref_medium=discover",
-                imageURL: "/images/hackathons/metaverso.png",
+                imageURL: "/images/hackathons/metaverso-ts.png",
               }}
             />
           </div>

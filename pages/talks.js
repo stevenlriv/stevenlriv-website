@@ -48,13 +48,13 @@ export default function Home() {
                 description:
                   "NFTYQ sits down w/ Neftify to discuss building the Shopify of the Play-to-Earn Guild movement, data on Guild growth in 2022, the gig economy and Gaming Guilds, and much more!",
                 url: "https://www.youtube.com/watch?v=sTVqI-o3td4",
-                imageURL: "/images/talks/neftify.jpg",
+                imageURL: "/images/talks/neftify-white.png",
               }}
               three={{
                 title: "NFTs will be the biggest market in crypto",
                 description: "Interview with Web3Creators",
                 url: "https://www.web3creators.com/stories/nfts-will-be-the-biggest-market-in-crypto",
-                imageURL: "/images/steven.jpeg",
+                imageURL: "/images/talks/nft-will-be-the-biggest-market-in-crypto.png",
               }}
             />
           </div>

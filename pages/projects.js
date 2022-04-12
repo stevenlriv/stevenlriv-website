@@ -40,20 +40,20 @@ export default function Home() {
                 description:
                   "A Web3 company that focuses on building products for the metaverse and gaming ecosystem",
                 url: "https://neftify.com",
-                imageURL: "/images/projects/neftify.jpg",
+                imageURL: "/images/projects/neftify-white.png",
               }}
               two={{
                 title: "Neftify Media",
                 description: "",
                 url: "",
-                imageURL: "/images/projects/neftify-media.jpg",
+                imageURL: "/images/projects/neftify-media-white.png",
               }}
               three={{
                 title: "Tattoo Skullz Society",
                 description:
                   "Tattoo Skullz Society is a collection of 5,000 NFTs—unique digital collectibles living on the Ethereum blockchain created by code-mixing 175 art elements.",
                 url: "https://tattooskullzsociety.com/",
-                imageURL: "/images/projects/tattoo-skullz-society.png",
+                imageURL: "/images/projects/tattoo-skullz-white.png",
               }}
             />
           </div>
