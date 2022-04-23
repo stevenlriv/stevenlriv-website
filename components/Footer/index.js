@@ -127,6 +127,16 @@ const Footer = (props) => {
                       LinkedIn
                     </a>
                   </li>
+                  <li className="mb-2">
+                    <a
+                      className="inline-block text-white hover:text-gray-200"
+                      href="https://stevenlriv.medium.com/"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      Medium
+                    </a>
+                  </li>
                   <li></li>
                 </ul>
               </div>
