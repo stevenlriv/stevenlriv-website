@@ -63,6 +63,13 @@ const Footer = (props) => {
                 <h5 className="text-xl font-bold mb-5 text-white">Then Here</h5>
                 <ul>
                   <li className="mb-2">
+                    <Link href="/my-nfts-galeries">
+                      <a className="inline-block text-white hover:text-gray-200">
+                      My NFTs Galeries
+                      </a>
+                    </Link>
+                  </li>
+                  <li className="mb-2">
                     <Link href="/hackathons">
                       <a className="inline-block text-white hover:text-gray-200">
                         Hackathons
@@ -77,16 +84,6 @@ const Footer = (props) => {
                       rel="noreferrer"
                     >
                       Github
-                    </a>
-                  </li>
-                  <li className="mb-2">
-                    <a
-                      className="inline-block text-white hover:text-gray-200"
-                      href="https://oncyber.io/metagala"
-                      target="_blank"
-                      rel="noreferrer"
-                    >
-                      Metagala
                     </a>
                   </li>
                   <li></li>
