@@ -48,8 +48,8 @@ export default function Home() {
               }}
               two={{
                 title: "Neftify Media",
-                description: "",
-                url: "",
+                description: "We are focused on building content and products that are persistent and immutable",
+                url: "https://neftify.media",
                 imageURL: "/images/projects/neftify-media-white.png",
               }}
               three={{
