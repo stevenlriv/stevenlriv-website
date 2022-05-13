@@ -71,7 +71,7 @@ export default function Home() {
               <p className="leading-8 mb-6">
                 From an early age, Steven recognized that he needed to make
                 money to be able to help his family financially. So the journey
-                started with $0 and a drive to do something for his family.
+                started with $0 and a drive to do something.
                 Steven began to learn how to code at the age of 12 and has been
                 trying to build companies since then.
               </p>
@@ -115,7 +115,7 @@ export default function Home() {
                   competing at international levels.
                 </li>
                 <li className="leading-8 mb-2">
-                  Made and lost $100,000+ in crypto markets.
+                  Made and lost $200,000+ in crypto markets.
                 </li>
               </ul>
 

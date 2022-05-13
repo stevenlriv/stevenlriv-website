@@ -5,7 +5,7 @@ import TopBanner from "./index.js";
 const TopBannerCurrentMessage = (props) => {
   return (
     <div>
-        <TopBanner message="Click aquí para participar en mi clase de Web 3: ¿Cómo convertirte en un programador?" link="https://parahispanohablantes.substack.com/p/de-0-a-web3-como-convertirte-en-un-programador" />
+        <TopBanner message="Looking to build something on-chain? Click here..." link="https://neftify.media/" />
     </div>
   );
 };

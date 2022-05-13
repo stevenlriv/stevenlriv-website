@@ -19,7 +19,6 @@ export default function Home() {
       />
 
       <div className="antialiased bg-body text-body font-body">
-
         <TopBannerCurrentMessage />
 
         <section className="pb-24 relative">
@@ -154,6 +153,202 @@ export default function Home() {
                   More Projects
                 </a>
               </Link>
+            </div>
+          </div>
+        </section>
+
+        <section className="py-24 bg-gray-100">
+          <div className="container px-4 mx-auto">
+            <div className="max-w-xl mx-auto mb-16 text-center">
+              <h2 className="text-4xl lg:text-5xl font-heading mb-6">
+                Programming Languages That I Know
+              </h2>
+              <p>
+                This is a list of all the programming languages I have interacted and can build in.
+              </p>
+            </div>
+            <div className="flex flex-wrap -mx-4 -mb-8">
+              <div className="w-full lg:w-1/2 px-4 mb-8">
+                <div className="py-12 px-6 lg:p-20 bg-white">
+                  <h5 className="text-xl font-heading mb-4">JavaScript</h5>
+                  <p className="max-w-xs leading-8 text-gray-400">
+                    Includes ReactJs, React Native, Node.js and Vue.js
+                  </p>
+                </div>
+              </div>
+              <div className="w-full lg:w-1/2 px-4 mb-8">
+                <div className="py-12 px-6 lg:p-20 bg-white">
+                  <h5 className="text-xl font-heading mb-4">
+                    Solidity
+                  </h5>
+                  <p className="max-w-xs leading-8 text-gray-400">
+                    Smart Contracts in EVM machines (Ethereum)
+                  </p>
+                </div>
+              </div>
+              <div className="w-full lg:w-1/2 px-4 mb-8">
+                <div className="py-12 px-6 lg:p-20 bg-white">
+                  <h5 className="text-xl font-heading mb-4">
+                    Rust
+                  </h5>
+                  <p className="max-w-xs leading-8 text-gray-400">
+                  </p>
+                </div>
+              </div>
+              <div className="w-full lg:w-1/2 px-4 mb-8">
+                <div className="py-12 px-6 lg:p-20 bg-white">
+                  <h5 className="text-xl font-heading mb-4">Go</h5>
+                  <p className="max-w-xs leading-8 text-gray-400">
+                  </p>
+                </div>
+              </div>
+              <div className="w-full lg:w-1/2 px-4 mb-8">
+                <div className="py-12 px-6 lg:p-20 bg-white">
+                  <h5 className="text-xl font-heading mb-4">
+                    C
+                  </h5>
+                  <p className="max-w-xs leading-8 text-gray-400">
+                  </p>
+                </div>
+              </div>
+              <div className="w-full lg:w-1/2 px-4 mb-8">
+                <div className="py-12 px-6 lg:p-20 bg-white">
+                  <h5 className="text-xl font-heading mb-4">C++</h5>
+                  <p className="max-w-xs leading-8 text-gray-400">
+                  </p>
+                </div>
+              </div>
+              <div className="w-full lg:w-1/2 px-4 mb-8">
+                <div className="py-12 px-6 lg:p-20 bg-white">
+                  <h5 className="text-xl font-heading mb-4">
+                    C#
+                  </h5>
+                  <p className="max-w-xs leading-8 text-gray-400">
+                  </p>
+                </div>
+              </div>
+              <div className="w-full lg:w-1/2 px-4 mb-8">
+                <div className="py-12 px-6 lg:p-20 bg-white">
+                  <h5 className="text-xl font-heading mb-4">
+                    PHP
+                  </h5>
+                  <p className="max-w-xs leading-8 text-gray-400">
+                  </p>
+                </div>
+              </div>
+
+              <div className="w-full lg:w-1/2 px-4 mb-8">
+                <div className="py-12 px-6 lg:p-20 bg-white">
+                  <h5 className="text-xl font-heading mb-4">
+                    Python
+                  </h5>
+                  <p className="max-w-xs leading-8 text-gray-400">
+                  </p>
+                </div>
+              </div>
+              <div className="w-full lg:w-1/2 px-4 mb-8">
+                <div className="py-12 px-6 lg:p-20 bg-white">
+                  <h5 className="text-xl font-heading mb-4">
+                    SQL
+                  </h5>
+                  <p className="max-w-xs leading-8 text-gray-400">
+                  </p>
+                </div>
+              </div>
+
+              <div className="w-full lg:w-1/2 px-4 mb-8">
+                <div className="py-12 px-6 lg:p-20 bg-white">
+                  <h5 className="text-xl font-heading mb-4">
+                    TypeScript
+                  </h5>
+                  <p className="max-w-xs leading-8 text-gray-400">
+                  </p>
+                </div>
+              </div>
+              <div className="w-full lg:w-1/2 px-4 mb-8">
+                <div className="py-12 px-6 lg:p-20 bg-white">
+                  <h5 className="text-xl font-heading mb-4">
+                    CSS
+                  </h5>
+                  <p className="max-w-xs leading-8 text-gray-400">
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section className="py-24 relative">
+          <div className="absolute top-0 left-0" />
+          <div className="container px-4 mx-auto">
+            <div className="flex flex-wrap -mx-4 items-center">
+              <div className="w-full lg:w-1/2 px-4 mb-14 lg:mb-0">
+                <h1 className="max-w-md mx-auto lg:mx-0 text-5xl lg:text-6xl font-heading">
+                  Spoken Languages That I know
+                </h1>
+              </div>
+              <div className="w-full lg:w-1/2 px-4">
+                <div className="max-w-2xl mx-auto py-12 px-8 md:p-12 bg-black">
+                  <div className="md:flex mb-14">
+                    <div className="mb-6 md:mb-0 mr-6 xl:mr-10">
+                      <div className="w-14 h-14 bg-indigo-300 transform rotate-45 flex items-center justify-center">
+                        <h2 className="text-2xl font-bold transform -rotate-45">
+                          1
+                        </h2>
+                      </div>
+                    </div>
+                    <div>
+                      <h2 className="text-3xl font-heading text-white mb-4">
+                        Spanish
+                      </h2>
+                      <p className="text-lg text-white">
+                        A Romance language spoken in Spain and in much of
+                        Central and South America (except Brazil) and several
+                        other countries. More than 400 millon speakers.
+                      </p>
+                    </div>
+                  </div>
+                  <div className="md:flex mb-14">
+                    <div className="mb-6 md:mb-0 mr-6 xl:mr-10">
+                      <div className="w-14 h-14 bg-orange-300 transform rotate-45 flex items-center justify-center">
+                        <h2 className="text-2xl font-bold transform -rotate-45">
+                          2
+                        </h2>
+                      </div>
+                    </div>
+                    <div>
+                      <h2 className="text-3xl font-heading text-white mb-4">
+                        English
+                      </h2>
+                      <p className="text-lg text-white">
+                        English is a West Germanic language of the Indo-European
+                        language family, originally spoken by the inhabitants of
+                        early medieval England. More than 1.132 billon speakers.
+                      </p>
+                    </div>
+                  </div>
+                  <div className="md:flex">
+                    <div className="mb-6 md:mb-0 mr-6 xl:mr-10">
+                      <div className="w-14 h-14 bg-red-300 transform rotate-45 flex items-center justify-center">
+                        <h2 className="text-2xl font-bold transform -rotate-45">
+                          3
+                        </h2>
+                      </div>
+                    </div>
+                    <div>
+                      <h2 className="text-3xl font-heading text-white mb-4">
+                        Mandarin Chinese
+                      </h2>
+                      <p className="text-lg text-white">
+                        Mandarin is a group of Sinitic ("Chinese") languages and
+                        dialects that are natively spoken across most of
+                        northern and southwestern China. More than 1.117 billon
+                        speakers.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </section>
