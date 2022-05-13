@@ -340,7 +340,7 @@ export default function Home() {
                         Mandarin Chinese
                       </h2>
                       <p className="text-lg text-white">
-                        Mandarin is a group of Sinitic ("Chinese") languages and
+                        Mandarin is a group of Sinitic (Chinese) languages and
                         dialects that are natively spoken across most of
                         northern and southwestern China. More than 1.117 billon
                         speakers.

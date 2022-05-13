@@ -16,7 +16,6 @@ export default function Home() {
       />
 
       <div className="antialiased bg-body text-body font-body">
-
         <TopBannerCurrentMessage />
 
         <section className="pb-24 relative">
@@ -48,7 +47,8 @@ export default function Home() {
               }}
               two={{
                 title: "Neftify Media",
-                description: "We are focused on building content and products that are persistent and immutable",
+                description:
+                  "We are focused on building content and products that are persistent and immutable",
                 url: "https://neftify.media",
                 imageURL: "/images/projects/neftify-media-white.png",
               }}
@@ -58,6 +58,16 @@ export default function Home() {
                   "Tattoo Skullz Society is a collection of 5,000 NFTs—unique digital collectibles living on the Ethereum blockchain created by code-mixing 175 art elements.",
                 url: "https://tattooskullzsociety.com/",
                 imageURL: "/images/projects/tattoo-skullz-white.png",
+              }}
+            />
+
+            <ContentRow
+              one={{
+                title: "Self Management App",
+                description:
+                  "Manage your daily task, workouts and meal plans with an app that easily tracks your progress!",
+                url: "https://selfmanagementapp.com/",
+                imageURL: "/images/projects/selfmanagement.png",
               }}
             />
           </div>
