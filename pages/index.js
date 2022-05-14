@@ -164,7 +164,8 @@ export default function Home() {
                 Programming Languages That I Know
               </h2>
               <p>
-                This is a list of all the programming languages I have interacted and can build in.
+                This is a list of all the programming languages I have
+                interacted and can build in.
               </p>
             </div>
             <div className="flex flex-wrap -mx-4 -mb-8">
@@ -174,104 +175,126 @@ export default function Home() {
                   <p className="max-w-xs leading-8 text-gray-400">
                     Includes ReactJs, React Native, Node.js and Vue.js
                   </p>
+
+                  <br />
+                  <a
+                    className="inline-block px-8 py-3 text-white font-bold bg-black hover:bg-gray-900"
+                    href="https://github.com/stevenlriv/stevenlriv-website"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    View some of my code
+                  </a>
                 </div>
               </div>
               <div className="w-full lg:w-1/2 px-4 mb-8">
                 <div className="py-12 px-6 lg:p-20 bg-white">
-                  <h5 className="text-xl font-heading mb-4">
-                    Solidity
-                  </h5>
+                  <h5 className="text-xl font-heading mb-4">Solidity</h5>
                   <p className="max-w-xs leading-8 text-gray-400">
                     Smart Contracts in EVM machines (Ethereum)
                   </p>
+
+                  <br />
+                  <a
+                    className="inline-block px-8 py-3 text-white font-bold bg-black hover:bg-gray-900"
+                    href="https://etherscan.io/address/0xdCFFF0EAaEf06eB27C821C62F2E3636ec0DAde5F#code"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    View some of my code
+                  </a>
                 </div>
               </div>
               <div className="w-full lg:w-1/2 px-4 mb-8">
                 <div className="py-12 px-6 lg:p-20 bg-white">
-                  <h5 className="text-xl font-heading mb-4">
-                    Rust
-                  </h5>
-                  <p className="max-w-xs leading-8 text-gray-400">
-                  </p>
+                  <h5 className="text-xl font-heading mb-4">Rust</h5>
+                  <p className="max-w-xs leading-8 text-gray-400"></p>
                 </div>
               </div>
               <div className="w-full lg:w-1/2 px-4 mb-8">
                 <div className="py-12 px-6 lg:p-20 bg-white">
                   <h5 className="text-xl font-heading mb-4">Go</h5>
-                  <p className="max-w-xs leading-8 text-gray-400">
-                  </p>
+                  <p className="max-w-xs leading-8 text-gray-400"></p>
                 </div>
               </div>
               <div className="w-full lg:w-1/2 px-4 mb-8">
                 <div className="py-12 px-6 lg:p-20 bg-white">
-                  <h5 className="text-xl font-heading mb-4">
-                    C
-                  </h5>
-                  <p className="max-w-xs leading-8 text-gray-400">
-                  </p>
+                  <h5 className="text-xl font-heading mb-4">C</h5>
+                  <p className="max-w-xs leading-8 text-gray-400"></p>
                 </div>
               </div>
               <div className="w-full lg:w-1/2 px-4 mb-8">
                 <div className="py-12 px-6 lg:p-20 bg-white">
                   <h5 className="text-xl font-heading mb-4">C++</h5>
-                  <p className="max-w-xs leading-8 text-gray-400">
-                  </p>
+                  <p className="max-w-xs leading-8 text-gray-400"></p>
+
+                  <br />
+                  <a
+                    className="inline-block px-8 py-3 text-white font-bold bg-black hover:bg-gray-900"
+                    href="https://github.com/stevenlriv/wander-device"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    View some of my code
+                  </a>
                 </div>
               </div>
               <div className="w-full lg:w-1/2 px-4 mb-8">
                 <div className="py-12 px-6 lg:p-20 bg-white">
-                  <h5 className="text-xl font-heading mb-4">
-                    C#
-                  </h5>
-                  <p className="max-w-xs leading-8 text-gray-400">
-                  </p>
+                  <h5 className="text-xl font-heading mb-4">C#</h5>
+                  <p className="max-w-xs leading-8 text-gray-400"></p>
+
+                  <br />
+                  <a
+                    className="inline-block px-8 py-3 text-white font-bold bg-black hover:bg-gray-900"
+                    href="https://github.com/neftify/juicypunksunity"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    View some of my code
+                  </a>
                 </div>
               </div>
               <div className="w-full lg:w-1/2 px-4 mb-8">
                 <div className="py-12 px-6 lg:p-20 bg-white">
-                  <h5 className="text-xl font-heading mb-4">
-                    PHP
-                  </h5>
-                  <p className="max-w-xs leading-8 text-gray-400">
-                  </p>
+                  <h5 className="text-xl font-heading mb-4">PHP</h5>
+                  <p className="max-w-xs leading-8 text-gray-400"></p>
+
+                  <br />
+                  <a
+                    className="inline-block px-8 py-3 text-white font-bold bg-black hover:bg-gray-900"
+                    href="https://github.com/neftify/beta-release"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    View some of my code
+                  </a>
                 </div>
               </div>
 
               <div className="w-full lg:w-1/2 px-4 mb-8">
                 <div className="py-12 px-6 lg:p-20 bg-white">
-                  <h5 className="text-xl font-heading mb-4">
-                    Python
-                  </h5>
-                  <p className="max-w-xs leading-8 text-gray-400">
-                  </p>
+                  <h5 className="text-xl font-heading mb-4">Python</h5>
+                  <p className="max-w-xs leading-8 text-gray-400"></p>
                 </div>
               </div>
               <div className="w-full lg:w-1/2 px-4 mb-8">
                 <div className="py-12 px-6 lg:p-20 bg-white">
-                  <h5 className="text-xl font-heading mb-4">
-                    SQL
-                  </h5>
-                  <p className="max-w-xs leading-8 text-gray-400">
-                  </p>
+                  <h5 className="text-xl font-heading mb-4">SQL</h5>
+                  <p className="max-w-xs leading-8 text-gray-400"></p>
                 </div>
               </div>
 
               <div className="w-full lg:w-1/2 px-4 mb-8">
                 <div className="py-12 px-6 lg:p-20 bg-white">
-                  <h5 className="text-xl font-heading mb-4">
-                    TypeScript
-                  </h5>
-                  <p className="max-w-xs leading-8 text-gray-400">
-                  </p>
+                  <h5 className="text-xl font-heading mb-4">TypeScript</h5>
+                  <p className="max-w-xs leading-8 text-gray-400"></p>
                 </div>
               </div>
               <div className="w-full lg:w-1/2 px-4 mb-8">
                 <div className="py-12 px-6 lg:p-20 bg-white">
-                  <h5 className="text-xl font-heading mb-4">
-                    CSS
-                  </h5>
-                  <p className="max-w-xs leading-8 text-gray-400">
-                  </p>
+                  <h5 className="text-xl font-heading mb-4">CSS</h5>
+                  <p className="max-w-xs leading-8 text-gray-400"></p>
                 </div>
               </div>
             </div>
