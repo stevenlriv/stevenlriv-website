@@ -12,7 +12,7 @@ export default function Home() {
         type="website"
         url="https://riverasteven.com/hackathons"
         imgURL="https://riverasteven.com/images/social-banner.png"
-        description="Every hackathon Steven has been participated."
+        description="Every hackathon Steven has won!"
       />
 
       <div className="antialiased bg-body text-body font-body">
@@ -35,7 +35,7 @@ export default function Home() {
               </div>
               <div className="w-full lg:w-1/2 px-4">
                 <p className="max-w-lg leading-8">
-                  Every hackathon Steven has been participated.
+                  Every hackathon Steven has won!
                 </p>
               </div>
             </div>
