@@ -75,7 +75,7 @@ export default function Home() {
                 <div className="flex items-center justify-center p-12 lg:p-20 bg-black shadow-lg">
                   <div className="text-center">
                     <p className="text-sm text-white mb-2">
-                      Lines of code written
+                      Lines of code written in two decades
                     </p>
                     <h2 className="text-4xl font-heading text-gray-50">1M+</h2>
                   </div>
@@ -85,7 +85,7 @@ export default function Home() {
                 <div className="flex items-center justify-center p-12 lg:p-20 bg-black shadow-lg">
                   <div className="text-center">
                     <p className="text-sm text-white mb-2">
-                      Value created with code
+                      Value created for companies with code
                     </p>
                     <h2 className="text-4xl font-heading text-gray-50">
                       $17M+
@@ -97,10 +97,10 @@ export default function Home() {
                 <div className="flex items-center justify-center p-12 lg:p-20 bg-black shadow-lg">
                   <div className="text-center">
                     <p className="text-sm text-white mb-2">
-                      People that used my code
+                      People that have used my code
                     </p>
                     <h2 className="text-4xl font-heading text-gray-50">
-                      20 000+
+                      40 000+
                     </h2>
                   </div>
                 </div>
